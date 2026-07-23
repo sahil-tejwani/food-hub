@@ -48,4 +48,4 @@ FOODHUB is a GUI-based food ordering system built in Java. It supports user sign
 
 ## Demo Video
 
-https://drive.google.com/file/d/1z8toWcjNKYKnAew7HgEVFAJjC30GuPn5/view?usp=sharing
+https://drive.google.com/file/d/19FDMNKoM2TKw-6Gx9_1mh73KuVwN_VX6/view?usp=sharing
