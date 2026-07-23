@@ -46,7 +46,6 @@ FOODHUB is a GUI-based food ordering system built in Java. It supports user sign
 - Student ID: 023-25-0532
 - Section: E
 
-## Video Link
+## Demo Video
 
-   https://drive.google.com/file/d/1AIGgeG_V87W28IfboDAfJufvB9ptljXj/view?usp=sharing
-
+https://drive.google.com/file/d/1z8toWcjNKYKnAew7HgEVFAJjC30GuPn5/view?usp=sharing
